@@ -16,5 +16,9 @@ The best part is, no back end is necessary + nobody can be anyone else!
 - CSS3
 - JavaScript ES6
 
-### Credits:
+## Deployment
+
+Via Vercel at [this link](https://potstop-web3-social-79m0rtrpa-kk-im.vercel.app)
+
+## Credits:
 Big shoutout to Rik at [Superhi](https://www.superhi.com/courses/crypto-and-web3-for-creatives) for his stress-free and clear pedagogy!
