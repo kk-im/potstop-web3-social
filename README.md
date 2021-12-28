@@ -17,4 +17,4 @@ The best part is, no back end is necessary + nobody can be anyone else!
 - JavaScript ES6
 
 ### Credits:
-Big shoutout to Rik at [Superhi](https://www.superhi.com/courses/crypto-and-web3-for-creatives)
+Big shoutout to Rik at [Superhi](https://www.superhi.com/courses/crypto-and-web3-for-creatives) for his stress-free and clear pedagogy!
